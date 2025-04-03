@@ -1,0 +1,52 @@
+[
+    {
+        "Nome": "Ana",
+        "Idade": 30,
+        "Cidade": "Fortaleza"
+    },
+    {
+        "Nome": "Bruno",
+        "Idade": 27,
+        "Cidade": "Recife"
+    },
+    {
+        "Nome": "Carla",
+        "Idade": 45,
+        "Cidade": "Porto Alegre"
+    },
+    {
+        "Nome": "Daniel",
+        "Idade": 32,
+        "Cidade": "Curitiba"
+    },
+    {
+        "Nome": "Eduardo",
+        "Idade": 38,
+        "Cidade": "São Paulo"
+    },
+    {
+        "Nome": "Fernanda",
+        "Idade": 25,
+        "Cidade": "Florianópolis"
+    },
+    {
+        "Nome": "Gabriel",
+        "Idade": 29,
+        "Cidade": "Belo Horizonte"
+    },
+    {
+        "Nome": "Helena",
+        "Idade": 22,
+        "Cidade": "Manaus"
+    },
+    {
+        "Nome": "Igor",
+        "Idade": 33,
+        "Cidade": "Salvador"
+    },
+    {
+        "Nome": "Juliana",
+        "Idade": 28,
+        "Cidade": "Rio de Janeiro"
+    }
+]
